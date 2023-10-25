@@ -1,0 +1,6 @@
+C:\Users\artur\OneDrive\Área de Trabalho\Davi\atividadeSQL\obj\Debug\net7.0\atividadeSQL.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Área de Trabalho\Davi\atividadeSQL\obj\Debug\net7.0\atividadeSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Área de Trabalho\Davi\atividadeSQL\obj\Debug\net7.0\atividadeSQL.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Área de Trabalho\Davi\atividadeSQL\obj\Debug\net7.0\atividadeSQL.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Área de Trabalho\Davi\atividadeSQL\obj\Debug\net7.0\atividadeSQL.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Área de Trabalho\Davi\atividadeSQL\obj\Debug\net7.0\atividadeSQL.MvcApplicationPartsAssemblyInfo.cache

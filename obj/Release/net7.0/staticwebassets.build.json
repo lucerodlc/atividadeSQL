@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pk33cCRiMy0JcrehVhhyEzQL5iWBuwkLp/JIB7QSmOU=",
+  "Source": "Projeto Web-Lh Pets versão 1",
+  "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web-Lh Pets versão 1\\wwwroot",
+      "Source": "Projeto Web-Lh Pets versão 1",
+      "ContentRoot": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\Davi\\atividadeSQL\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\Davi\\atividadeSQL\\wwwroot\\index.html",
+      "SourceId": "Projeto Web-Lh Pets versão 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\artur\\OneDrive\\Área de Trabalho\\Davi\\atividadeSQL\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-Lh Pets versão 1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
